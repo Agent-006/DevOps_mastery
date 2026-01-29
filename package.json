@@ -1,0 +1,22 @@
+{
+    "name": "ci_cd",
+    "version": "1.0.0",
+    "description": "hello ci_cd",
+    "main": "index.js",
+    "scripts": {
+        "run": "node index.js",
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Agent-006/DevOps_mastery.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/Agent-006/DevOps_mastery/issues"
+    },
+    "homepage": "https://github.com/Agent-006/DevOps_mastery#readme"
+}
